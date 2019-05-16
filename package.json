@@ -1,0 +1,17 @@
+{
+  "name": "regeneration",
+  "version": "1.0.0",
+  "description": "fullstack javascript test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "codehub",
+    "regeneration",
+    "fullstack",
+    "javascript"
+  ],
+  "author": "Dimitra Talekoglou",
+  "license": "ISC"
+}
